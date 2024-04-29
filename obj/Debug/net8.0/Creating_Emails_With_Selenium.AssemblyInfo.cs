@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Creating_Emails_With_Selenium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41b713ed1cef740002ff7bbaaadf8bc1cb1e3836")]
 [assembly: System.Reflection.AssemblyProductAttribute("Creating_Emails_With_Selenium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Creating_Emails_With_Selenium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
